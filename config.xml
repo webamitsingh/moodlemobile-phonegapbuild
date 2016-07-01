@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodle.learn"
+        id        = "net.moodle.hcltc"
         versionCode = "2"
         version   = "1.1">
-    <name>Learn Moodle</name>
+    <name>hcltc Moodle</name>
 
     <description>
-        Learn Moodle
+        hcltc Moodle
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://ballisticlearning.com" email="amit.singh@ballisticlearning.com">
+        BLPL
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
